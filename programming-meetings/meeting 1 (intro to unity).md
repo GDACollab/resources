@@ -17,8 +17,6 @@
 
 ## Past GDA Projects
 
-### Occultus Ocularus
-
 - [http://github.com/occultus-ocularus/Occultus-Ocularus](http://github.com/occultus-ocularus/Occultus-Ocularus) (GDA 2018-2019)
 - [https://github.com/gda-seedsoflove/seedsoflove](https://github.com/gda-seedsoflove/seedsoflove) (GDA 2018-2019)
 - [https://github.com/Fangee/typocrypha](https://github.com/Fangee/typocrypha) (GDA 2017-2018)
