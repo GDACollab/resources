@@ -15,7 +15,16 @@
 - or [Resharper](https://www.jetbrains.com/resharper/) if you're on windows and use (full) visual studio
 - Jetbrains IDEs cost money, [but you can get them for free while you're a student](https://www.jetbrains.com/student/)
 
-## Link to this tutorial:
+## Past GDA Projects
+
+### Occultus Ocularus
+
+- [http://github.com/occultus-ocularus/Occultus-Ocularus](http://github.com/occultus-ocularus/Occultus-Ocularus) (GDA 2018-2019)
+- [https://github.com/gda-seedsoflove/seedsoflove](https://github.com/gda-seedsoflove/seedsoflove) (GDA 2018-2019)
+- [https://github.com/Fangee/typocrypha](https://github.com/Fangee/typocrypha) (GDA 2017-2018)
+- [https://github.com/typocrypha](https://github.com/typocrypha) (current continuation of typocrypha)
+
+## Link to the tutorial repository:
 
 We'll be livecoding some stuff, and you can checkout + pull from one of the following repositories that we'll be making at the 1st programming meeting:
 
